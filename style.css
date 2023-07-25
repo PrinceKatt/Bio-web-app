@@ -1,0 +1,31 @@
+body {
+  /* background-color: brown; */ */
+  padding: 20px
+  color: red;
+  text-align: center;
+  
+}
+h1{
+  font-size: larger;
+}
+p {
+  font-size: small;
+}
+a{
+  text-decoration: none
+}
+.profile-i {
+  width: 50%;
+  Border-radius :40%;
+}
+
+.btn {
+  display: block;
+  color: white;
+  padding: 20px;
+  background-color: lime;
+  margin:1px;
+  box-shadow: 10px 10px lightblue;
+  
+ 
+}
